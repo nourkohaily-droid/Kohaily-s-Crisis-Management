@@ -1,0 +1,7 @@
+{
+  "appId": "com.kohaily.crisismanagement",
+  "appName": "Kohaily Crisis Management",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#2F43D6" }
+}
